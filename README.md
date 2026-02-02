@@ -2,7 +2,7 @@
 
 <p align="center">最近更新于：2026年2月2日</p>
 
-![最新国外视频网站和免费电影网站推荐](https://raw.githubusercontent.com/ws2seomm/sites/image/%E5%9B%BD%E5%A4%96%E8%A7%86%E9%A2%91%E7%BD%91%E7%AB%99%E5%92%8C%E5%85%8D%E8%B4%B9%E7%94%B5%E5%BD%B1%E7%BD%91%E7%AB%99%E6%8E%A8%E8%8D%90.png)
+![最新国外视频网站和免费电影网站推荐](image/%E5%9B%BD%E5%A4%96%E8%A7%86%E9%A2%91%E7%BD%91%E7%AB%99%E5%92%8C%E5%85%8D%E8%B4%B9%E7%94%B5%E5%BD%B1%E7%BD%91%E7%AB%99%E6%8E%A8%E8%8D%90.png)
 
 现如今上网看电影、追剧、看综艺和观看直播已经成为许多人主要的娱乐方式。在国内，大家比较熟悉的视频网站有腾讯视频、爱奇艺、优酷、土豆等。不过，很多网友已不满足于国内的视频资源，也希望了解一些值得浏览和收藏的国外视频网站。
 
@@ -22,7 +22,7 @@
 
 ### 一、Netflix
 
-![国外付费视频网站推荐：Netflix](https://raw.githubusercontent.com/ws2seomm/sites/image/1-Netflix.png)
+![国外付费视频网站推荐：Netflix](image/1-Netflix.png)
 
 网址：https://www.netflix.com
 
