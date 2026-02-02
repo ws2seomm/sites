@@ -30,7 +30,7 @@ Netflix是全球最大的流媒体平台，拥有超过两亿活跃用户。在�
 
 ### 二、Hulu
 
-![国外付费视频网站推荐：Hulu](https://raw.githubusercontent.com/ws2seomm/sites/image/2-Hulu.png)
+![国外付费视频网站推荐：Hulu](image/2-Hulu.png)
 
 网址：https://www.hulu.com
 
@@ -38,7 +38,7 @@ Hulu是美国非常受欢迎的流媒体平台，最大特色是电视台播出�
 
 ### 三、Disney+
 
-![国外付费视频网站推荐：Disney+](https://raw.githubusercontent.com/ws2seomm/sites/image/3-Disney.png)
+![国外付费视频网站推荐：Disney+](image/3-Disney.png)
 
 网址：https://www.disneyplus.com
 
@@ -46,7 +46,7 @@ Hulu是美国非常受欢迎的流媒体平台，最大特色是电视台播出�
 
 ### 四、HBO Max
 
-![国外付费视频网站推荐：HBO Max](https://raw.githubusercontent.com/ws2seomm/sites/image/4-HBO%20Max.png)
+![国外付费视频网站推荐：HBO Max](image/4-HBO%20Max.png)
 
 网址：https://www.hbomax.com
 
@@ -54,7 +54,7 @@ HBO一直以高质量剧集著称，《权力的游戏》《西部世界》《�
 
 ### 五、Amazon Prime Video
 
-![国外付费视频网站推荐：Amazon Prime Video](https://raw.githubusercontent.com/ws2seomm/sites/image/5-Amazon%20Prime%20Video.png)
+![国外付费视频网站推荐：Amazon Prime Video](image/5-Amazon%20Prime%20Video.png)
 
 网址：https://www.primevideo.com
 
@@ -66,7 +66,7 @@ HBO一直以高质量剧集著称，《权力的游戏》《西部世界》《�
 
 ### 一、YouTube
 
-![国外免费视频网站推荐：YouTube](https://raw.githubusercontent.com/ws2seomm/sites/image/6-YouTube.png)
+![国外免费视频网站推荐：YouTube](image/6-YouTube.png)
 
 网址：https://www.youtube.com
 
@@ -74,7 +74,7 @@ YouTube毫无疑问是全球最大的免费视频分享平台，内容非常的�
 
 ### 二、Tubi
 
-![国外免费视频网站推荐：Tubi](https://raw.githubusercontent.com/ws2seomm/sites/image/7-Tubi.png)
+![国外免费视频网站推荐：Tubi](image/7-Tubi.png)
 
 网址：https://www.tubi.tv
 
@@ -82,7 +82,7 @@ Tubi是福克斯旗下的免费流媒体服务，专门提供正版电影和电�
 
 ### 三、Crackle
 
-![国外免费视频网站推荐：Crackle](https://raw.githubusercontent.com/ws2seomm/sites/image/8-Crackle.png)
+![国外免费视频网站推荐：Crackle](image/8-Crackle.png)
 
 网址：https://www.crackle.com
 
@@ -90,7 +90,7 @@ Tubi是福克斯旗下的免费流媒体服务，专门提供正版电影和电�
 
 ### 四、Vimeo
 
-![国外免费视频网站推荐：Vimeo](https://raw.githubusercontent.com/ws2seomm/sites/image/9-Vimeo.png)
+![国外免费视频网站推荐：Vimeo](image/9-Vimeo.png)
 
 网址：https://www.vimeo.com
 
@@ -98,7 +98,7 @@ Vimeo在海外视频网站中属于独树一帜的存在，以高质量的艺术
 
 ### 五、Twitch
 
-![国外免费视频网站推荐：Twitch](https://raw.githubusercontent.com/ws2seomm/sites/image/10-Twitch.png)
+![国外免费视频网站推荐：Twitch](image/10-Twitch.png)
 
 网址：https://www.twitch.tv
 
